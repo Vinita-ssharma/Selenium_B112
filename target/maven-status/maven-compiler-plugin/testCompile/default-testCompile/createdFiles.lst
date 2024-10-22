@@ -1,6 +1,5 @@
 generic\BaseTest.class
-script\Demo3.class
-script\Demo1.class
 generic\Utility.class
-script\Demo4.class
-script\Demo2.class
+script\ValidLogin.class
+page\HomePage.class
+page\LoginPage.class

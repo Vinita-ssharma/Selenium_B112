@@ -1,7 +1,5 @@
 C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\generic\BaseTest.java
 C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\generic\Utility.java
-C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\script\Demo1.java
-C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\script\Demo2.java
-C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\script\Demo3.java
-C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\script\Demo4.java
-C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\script\script5.java
+C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\page\HomePage.java
+C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\page\LoginPage.java
+C:\Users\Dell\git\Selenium_B112\Selenium_B112\src\test\java\script\ValidLogin.java
